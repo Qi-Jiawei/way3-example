@@ -3,4 +3,7 @@ b <- 4
 c <- a+b
 c
 d <- a+b+c
-d
+e <- a+b+c
+e
+f <- a+b+c+e
+f
