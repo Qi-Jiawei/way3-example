@@ -11,3 +11,4 @@ a <- b+c
 a
 b <- a+c
 b
+f <- a+b+c+d+e
