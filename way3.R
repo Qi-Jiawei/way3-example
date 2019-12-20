@@ -7,3 +7,5 @@ e <- a+b+c
 e
 f <- a+b+c+e
 f
+a <- b+c
+a
