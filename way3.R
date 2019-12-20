@@ -9,3 +9,5 @@ f <- a+b+c+e
 f
 a <- b+c
 a
+b <- a+c
+b
